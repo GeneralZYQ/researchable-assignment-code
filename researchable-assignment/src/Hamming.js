@@ -51,13 +51,11 @@ class HammingDistancePlot extends React.Component{
 
     	this.handleSubmit = this.handleSubmit.bind(this);
     	this.handleChange = this.handleChange.bind(this);
-
-    	console.log('I was triggered during constructor')
   	}
 
   	componentDidMount(){
 
-        const script = document.createElement("script");
+        const script = document.createElement("script"); //Add the script for fork button
 
         script.src = "https://buttons.github.io/buttons.js";
         script.async = true;
