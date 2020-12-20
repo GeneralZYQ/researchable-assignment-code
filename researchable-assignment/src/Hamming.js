@@ -318,7 +318,7 @@ class HammingDistancePlot extends React.Component{
 
                 
                 <div class="container" id="forkButton">
-                    <a class="github-button" href="https://github.com/GeneralZYQ/researchable-assignment" data-icon="octicon-repo-forked" aria-label="Fork ntkme/github-buttons on GitHub">
+                    <a class="github-button" href="https://github.com/GeneralZYQ/researchable-assignment-code" data-icon="octicon-repo-forked" aria-label="Fork ntkme/github-buttons on GitHub">
                     Fork
                     </a>
                 </div>
